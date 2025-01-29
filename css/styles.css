@@ -74,7 +74,8 @@ ul {
   color: #fff;
 }
 
-.button:hover .button:focus {
+.button:hover,
+.button:focus {
   background: #404bbf;
 }
 
@@ -155,7 +156,7 @@ ul {
 }
 
 .logo-color-footer {
-  .color: #f4f4fd;
+  color: #f4f4fd;
 }
 .footer-text {
   color: #f4f4fd;
